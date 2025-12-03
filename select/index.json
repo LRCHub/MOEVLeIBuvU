@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "なないろ",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-03T08:24:33.055891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ (メイキング映像)",
+      "artist": "Tomato n’ Pine",
+      "has_synced": false,
+      "path": "select/01_なないろ☆ナミダ_(メイキング映像)_Tomato_n’_Pine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なないろ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_なないろ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なないろ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_なないろ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なないろ - Nanairo",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_なないろ_-_Nanairo_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なないろ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_なないろ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なないろ - Nanairo",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_なないろ_-_Nanairo_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BUMP OF CHICKEN「なないろ」",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_BUMP_OF_CHICKEN「なないろ」_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "なないろ (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_なないろ_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "なないろ",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/09_なないろ_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ",
+      "artist": "Tomato n’ Pine",
+      "has_synced": true,
+      "path": "select/10_なないろ☆ナミダ_Tomato_n’_Pine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ",
+      "artist": "Tomato N' Pine",
+      "has_synced": true,
+      "path": "select/11_なないろ☆ナミダ_Tomato_N'_Pine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なないろ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_なないろ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
